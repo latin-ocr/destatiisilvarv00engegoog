@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./destatiisilvarv00engegoog_0008.png"; bbox 0 0 819 1231; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 104 474 661 500">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 104 474 661 500">
+     <span class='ocr_line' id='line_1_1' title="bbox 104 474 661 500; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 104 474 150 499; x_wconf 90' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_2' title='bbox 163 474 275 499; x_wconf 76' lang='lat' dir='ltr'>STATII</span> <span class='ocrx_word' id='word_1_3' title='bbox 289 474 469 500; x_wconf 78' lang='lat' dir='ltr'><strong>SILVARVM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 482 474 661 500; x_wconf 82' lang='lat' dir='ltr'>OODICIBVS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 346 537 413 549">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 346 537 413 549">
+     <span class='ocr_line' id='line_1_2' title="bbox 346 537 413 549; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 346 537 413 549; x_wconf 69' lang='lat' dir='ltr'><strong>flumen·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 246 592 518 634">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 246 592 518 634">
+     <span class='ocr_line' id='line_1_3' title="bbox 246 592 518 610; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 246 592 370 610; x_wconf 75' lang='lat' dir='ltr'><strong>ABTflvmvs</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 382 592 518 610; x_wconf 71' lang='lat' dir='ltr'>ENGELMANN</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 318 622 438 634; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 318 622 438 634; x_wconf 60' lang='lat' dir='ltr'>Amsnmmsm</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 119 1042 265 1057">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 119 1042 265 1057">
+     <span class='ocr_line' id='line_1_5' title="bbox 119 1042 265 1057; baseline 0.014 -5"><span class='ocrx_word' id='word_1_9' title='bbox 119 1042 175 1057; x_wconf 63' lang='grc' dir='ltr'>ωμςῃ.</span> <span class='ocrx_word' id='word_1_10' title='bbox 181 1042 231 1054; x_wconf 63' lang='lat' dir='ltr'>smus-n.</span> <span class='ocrx_word' id='word_1_11' title='bbox 238 1043 265 1054; x_wconf 69' lang='lat' dir='ltr'>xx.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
